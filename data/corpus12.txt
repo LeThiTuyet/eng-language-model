@@ -1,0 +1,65 @@
+priate for their positions in the neural tube.
+This indicates that, in flies, precursors express Delta and that those specified for neuroblast development downregulate its expression.
+Genetic analyses of fly development then led to the view that lateral inhibition is mediated by interaction of Delta and Notch proteins expressed on neighboring cells [ 12].
+Following color development, the embryos were treated with 2 N NaOH for 1 hr, washed with PBSTx (phosphate buffered saline with 0.01% TritonX-100), blocked 1 hr in PBDTx (PBS, 1% DMSO, 0.01% TritonX-100 plus 2% sheep serum and 2 mg/ml BSA, then incubated 2 hr with anti-BrdU (monoclonal G3G4, Developmental Studies Hybridoma Bank).
+This requires the integration of transcriptomic, proteomic, phenomic, and bioinformatic approaches, not least because development, in its most basic sense, is genes plus context [ 19 20 21 22 ] .
+This modified expression of genes and proteins associated with the inhibition of the cell cycle and the induction of apoptosis, as well as the increased activation of proapoptotic and compensatory antiapoptotic pathways, provides a "snapshot" of the broad primary and secondary effects of NF-κB signaling during SMG development.
+2 arrest, as well as apoptosis via p53-dependent and p53-independent pathways [ 50 51 52 ] . The presence of a dysplastic SMG phenotype in E2f1 -/-mice indicates that E2F1 plays an important role during SMG development [ 53 ] . Moreover, E2F1 overexpression in human salivary gland (HSG) cells diverted these cells into an apoptotic pathway [ 54 ] .
+However, others have shown that lower doses ≤ 100 μg/ml of SN50 specifically inhibited NF-κB nuclear translocation in human peripheral blood lymphocytes and murine T cells [ 33 63 ] . These reported differences are likely due to dose-dependent or cell-specific differences in the effect of SN50 [ 64 ] . Given that: (1) embryonic SMGs were cultured in the presence of 100 μg/ml SN50, (2) immunodetectable NF-κB was absent from SMG epithelia nuclei in TNF + SN50-treated explants, and (3) one cannot extrapolate observations in Jurkat cells to those in primary cells [ 64 ] or organ cultures, it is most probable that our observed interruption of SMG development is proximately due exclusively to the inhibition of NF-κB nuclear translocation.
+It is essential for animal development, immune system function, and wound repair.
+These animals are transparent and anatomically simple, so cell migrations can be followed in the living animal at all stages of development by fluorescence microscopy of GFP fusion proteins or by Nomarski microscopy.
+Later in development, mec-17 also contributes to the maintenance of mec-3 expression [ 16].
+Abnormal anterior segment development is often associated with elevated intraocular pressure (IOP), an important risk factor for the blinding disease glaucoma [ 1].
+The molecular mechanisms responsible for normal or abnormal development of the iridocorneal angle, its structures, and increased resistance to aqueous drainage in glaucoma are not well defined.
+Cell migration, proliferation, and differentiation are important for the development of this ocular region.
+As TM development proceeds the cellular mass differentiates, organizes and develops channels to produce the mature meshwork.
+Some of these theories propose atrophy or resorption of the mesenchyme as development progresses to create the structures and spaces important for aqueous drainage while others propose a reorganization of cells with no cell death or atrophy.
+Whether cell death or atrophy occurs during TM and iridocorneal angle development remains controversial.
+The mouse represents an important experimental model for understanding mammalian development and diseases caused by its abnormalities.
+In studied mammalian species, iridocorneal angle development is incomplete at birth.
+Although various studies have characterized in detail the prenatal development of the mouse eye there is very little published about the normal structure or postnatal development of the mouse iridocorneal angle [ 22, 23, 24, 25, 26, 27].
+Although various studies have characterized in detail the prenatal development of the mouse eye there is very little published about the normal structure or postnatal development of the mouse iridocorneal angle [ 22, 23, 24, 25, 26, 27].
+We present a light and electron microscopic (EM) evaluation of iridocorneal angle development in staged embryos and through eight postnatal weeks, when the angle structures have reached full maturity.
+Prenatal development
+This study of the prenatal development of the C57BL/6J iridocorneal angle, essentially agrees with published reports of general ocular development for the strains CFI-S [ 24] and Ha/1CR [ 22].
+This study of the prenatal development of the C57BL/6J iridocorneal angle, essentially agrees with published reports of general ocular development for the strains CFI-S [ 24] and Ha/1CR [ 22].
+Postnatal development
+To further understand iridocorneal angle development, we analyzed stages involving significant changes in the TM and SC using EM.
+Absence of cell death in angle development
+It is probable that all normal cell death during development utilizes pathways of programmed cell death (PCD) [ 28].
+As a final assessment of a role for cell death pathways, we determined whether absence of the FAS and FASL initiators of cell death alter iridocorneal angle development and morphology.
+This indicates that these pro-apoptotic molecules are not required for normal iridocorneal angle development.
+Our findings extend those of previous studies that did not focus on the iridocorneal angle or did not study its development to maturity [ 22, 23, 24, 25, 26].
+Although there is evidence for a role of most of these processes in iridocorneal angle development and intertrabecular space opening (see [ 17]), the role of cell death or atrophy is controversial.
+Macrophages also can elicit cell death in normal development (see [ 32]).
+Macrophages were reported in the developing mouse (B6) anterior chamber and a model of TM development including cell death was proposed, but no cell death was recorded [ 26].
+No evidence for cell death during mouse angle development
+Finally, development of the angle in Fas and Fasl null mice was normal indicating this system of cell death regulators that can kill TM cells [ 30] is not required for TM channel formation.
+Based on these observations, we conclude that neither apoptosis nor necrosis are important mechanisms in development of the mouse TM and iridocorneal angle.
+Thus, we suggest that the macrophages previously reported in TM of mice (and possibly some other species) were involved in the process of pupillary membrane regression and were sometimes deposited in the TM but were not significant for TM development.
+The demonstration of cell death in a SD strain of rats has fueled the debate about mechanisms of iridocorneal angle development [ 18].
+Given the similarities in developmental stages between both B6 and A.BY/SnJ mouse strains and humans, and the similar timing and progression of angle development in mice and rats, it seems unlikely that mechanisms of angle morphogenesis would differ between mice and rats.
+Our results support a model of mesenchymal differentiation and iridocorneal angle development that involves reorganization of cellular and extracellular matrix components without cell death or atrophy.
+For general anterior segment development, this is supported by the observations that genetic deficiency of transcription factors such as PAX6, PITX2, FOXC1 [ 44, 45], and LMX1B that are expressed in the periocular mesenchyme results in anterior segment dysgenesis in both humans and mice [ 46, 47, 48, 49, 50, 51, 52, 53, 54].
+This is partly due to limited documentation of the sequence of events underlying iridocorneal angle development and limited documentation of the mature angle structures in mice.
+The current study provides important baseline information for mechanistic studies of angle development in the existing mouse models of anterior segment dysgenesis.
+Additionally, it will facilitate experiments with mutant mice to determine how newly identified genes function in angle development and how the pathways in which they participate overlap or interact with each other.
+To determine if absence of the cell death mediators FAS and FASL alter iridocorneal angle development and morphology, we assessed five mice (approximately P70) of each of the mutant strains B6.MRL- Fas lpr and B6Smn.C3H- Fasl gld , which respectively lack functional FAS and FASL [ 55, 56, 57, 58].
+Iridocorneal angle development is somewhat variable both temporally and spatially within a single eye and between eyes.
+Similar Cre reporter strains have been produced using different promoters to express lacZ [ [ 6 7 8 9 ] ], Another variation on this theme has been the development of the Z/AP reporter strain, which switches from lacZ to alkaline phosphatase expression upon exposure to Cre recombinase activity [ 10].
+Furthermore, by using modified forms of Cre whose recombinase activity is inducible, one can use these reporter mice to perform detailed analysis on the lineage of cells at different time points during development.
+Embryological literature includes a broad array of descriptions of development in one organism or another.
+A monophyletic ancestry for the vertebrates, with the possible exception of cyclostomes, implies that some common inherited mechanistic themes exist for development.
+Development in many of the approximately fifty orders of fishes remains unknown.
+Their adult anatomy and distribution have been used to construct phylogenies for actinopterygian evolution, and details of their embryonic development are likely to have similar usefulness.
+Most previous work on the early embryonic development of
+Much of the description of early embryonic development in the garpike is based on material that was badly distorted by harsh fixation procedures.
+Recent embryological study of the garpike either has been restricted to the development of specific structures in older embryos, e.g. [ 10], or has been reported in sketchy fashion ancillary to studies with another purpose, e.g. [ 11].
+We took a fresh look at this animal to describe in familiar terms the sequence of events during its development.
+Studies of those groups [ 12, 13, 14, 15, 16, 17] illustrated the marked differences in development among them.
+For example, development of the sturgeon is relatively frog-like and the bowfin is much more similar to teleosts in its gastrulation pattern.
+We found that garpike development differs from that of the basal fish listed above, as well as teleosts.
+We list short-term rates for early stages of development, at several temperatures, in the following paragraphs.
+Development for this batch was not timed past six days because travel arrangements precluded it.
+3A, 3B, 3C) - This stage begins the blastula phase of garpike development.
+Development of the adhesive organ produces a bean-shaped swelling anter
